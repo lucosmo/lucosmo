@@ -11,7 +11,7 @@
 Hi, I'm Lukasz – I've been involved in IT and programming for over a decade. For nearly three years, I've been developing applications using C#, the .NET ecosystem, and Azure. I focus on building modern solutions, improving my skills, and sharing knowledge with the community. Follow me to stay updated on my latest work in .NET, cloud development, and software best practices
 </p>
 
-## My favorite tools and technologies ⚙️
+## Tech stack :hammer_and_wrench:
 
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="42" height="42"/></a>
@@ -31,13 +31,13 @@ Hi, I'm Lukasz – I've been involved in IT and programming for over a decade. F
   <a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="42" height="42"/></a>
 </p>
 
-## GitHub Profile Achievements :trophy
+## GitHub Profile Achievements :trophy:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lucosmo&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
-## GitHub Stats 
+## GitHub Stats :bar_chart:
 
-  <summary>GitHub Stats</summary>:bar_chart
+  <summary>GitHub Stats :bar_chart:</summary>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats""><img alt="lucosmo's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=lucosmo&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a><br />
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lucosmo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucosmo&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
@@ -47,7 +47,7 @@ Hi, I'm Lukasz – I've been involved in IT and programming for over a decade. F
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucosmo&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true" />
 
-  <summary>Profile Views</summary>
+  <summary>Profile Views :eye:</summary>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=lucosmo&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 <!--
